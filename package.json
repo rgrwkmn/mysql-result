@@ -1,0 +1,24 @@
+{
+  "name": "mysql-result",
+  "version": "1.0.0",
+  "description": "Functions for handling mysql/mysql2 query results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rgrwkmn/mysql-result.git"
+  },
+  "keywords": [
+    "mysql",
+    "mysql2",
+    "result"
+  ],
+  "author": "Roger Wakeman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgrwkmn/mysql-result/issues"
+  },
+  "homepage": "https://github.com/rgrwkmn/mysql-result#readme"
+}
